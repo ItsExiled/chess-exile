@@ -1,0 +1,9 @@
+<Application>x:Class="netg.ui.App"  // <-- Ensure your namespace matches here
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:CoolChessGame.UI" // <-- Ensure your namespace matches here
+             StartupUri="MainWindow.xaml"> <--- **IMPORTANT: StartupUri**
+    <Application.Resources>
+
+    </Application.Resources>
+</Application>

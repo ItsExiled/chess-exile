@@ -1,0 +1,6 @@
+/home/exiled/projects/chess/chess-exile/src/UI/netg.ui/obj/Debug/net6.0-windows/netg.ui.csproj.AssemblyReference.cache
+/home/exiled/projects/chess/chess-exile/src/UI/netg.ui/obj/Debug/net6.0-windows/netg.ui.GeneratedMSBuildEditorConfig.editorconfig
+/home/exiled/projects/chess/chess-exile/src/UI/netg.ui/obj/Debug/net6.0-windows/netg.ui.AssemblyInfoInputs.cache
+/home/exiled/projects/chess/chess-exile/src/UI/netg.ui/obj/Debug/net6.0-windows/netg.ui.AssemblyInfo.cs
+/home/exiled/projects/chess/chess-exile/src/UI/netg.ui/obj/Debug/net6.0-windows/netg.ui.csproj.CoreCompileInputs.cache
+/home/exiled/projects/chess/chess-exile/src/UI/netg.ui/obj/Debug/net6.0-windows/netg.ui_MarkupCompile.cache

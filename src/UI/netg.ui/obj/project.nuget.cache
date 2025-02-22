@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "unf5k2j+CB75QGeubc7UriJVGBT9AVq9ojfWRZxn2SE0g8xqI1wpOM/Oh9OP8IwL/UgO5soMBJbh+rW4RdiLZw==",
+  "success": true,
+  "projectFilePath": "/home/exiled/projects/chess/chess-exile/src/UI/netg.ui/netg.ui.csproj",
+  "expectedPackageFiles": [
+    "/home/exiled/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/exiled/.nuget/packages/microsoft.windowsdesktop.app.ref/6.0.8/microsoft.windowsdesktop.app.ref.6.0.8.nupkg.sha512",
+    "/home/exiled/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/exiled/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
